@@ -1,0 +1,312 @@
+Uri: http://fonts.googleapis.com/css?family=Inter
+File Name: C:\Downloaded Web Sites\magnesify.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\magnesify.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://magnesify.com/
+File Name: C:\Downloaded Web Sites\magnesify.com\index.htm
+Content Type: text/html
+
+Uri: https://magnesify.com/auth/signin
+File Name: C:\Downloaded Web Sites\magnesify.com\auth\signin.html
+Content Type: text/html
+
+Uri: https://magnesify.com/services/maps
+File Name: C:\Downloaded Web Sites\magnesify.com\services\maps.html
+Content Type: text/html
+
+Uri: https://magnesify.com/services/package
+File Name: C:\Downloaded Web Sites\magnesify.com\services\package.html
+Content Type: text/html
+
+Uri: https://magnesify.com/services/plugins
+File Name: C:\Downloaded Web Sites\magnesify.com\services\plugins.html
+Content Type: text/html
+
+Uri: https://magnesify.com/terms
+File Name: C:\Downloaded Web Sites\magnesify.com\terms.html
+Content Type: text/html
+
+Uri: https://magnesify.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage.83fe2bbe.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\image-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage.83fe2bbe.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\image.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcSlRUGYTdaEoCqgqLyJzhy1dJA97UH5h32mpw%26s&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\images.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcSlRUGYTdaEoCqgqLyJzhy1dJA97UH5h32mpw%26s&w=96&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\images-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2Fbanners%2Fmagnesifyblocks.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\magnesifyblocks-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2Fbanners%2Fmagnesifyblocks.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\magnesifyblocks.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2Fbanners%2Fmagneticcore.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\magneticcore-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2Fbanners%2Fmagneticcore.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\magneticcore.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2Fbanners%2Fmagneticeffects.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\magneticeffects-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2Fbanners%2Fmagneticeffects.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\magneticeffects.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FFullpack.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Fullpack-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FFullpack.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Fullpack.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (10).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (10)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (10).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (10).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (11).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (11)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (11).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (11).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (4).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (4)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (4).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (4).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (5).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (5)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (5).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (5).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (6).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (6)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (6).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (6).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (7).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (7)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (7).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (7).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (8).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (8)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (8).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (8).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (9).png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (9)-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify (9).png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify (9).png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FMagnesify.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Magnesify.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FSkyblock.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Skyblock-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fimages.magnesify.com%2FSkyblock.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\Skyblock.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2F64e05e201197661.667051f96dbc4.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\64e05e201197661.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2F64e05e201197661.667051f96dbc4.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\64e05e201197661-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2F6d88dd201874687.667c2dfd70ad0.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\6d88dd201874687.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2F6d88dd201874687.667c2dfd70ad0.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\6d88dd201874687-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2Fb83de2201503359.66757fa85c60f.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\b83de2201503359.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2Fb83de2201503359.66757fa85c60f.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\b83de2201503359-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2Fc74f97201120445.666e98f51206a.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\c74f97201120445.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/image?url=https:%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2Fc74f97201120445.666e98f51206a.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\c74f97201120445-1.png
+Content Type: image/png
+
+Uri: https://magnesify.com/_next/static/chunks/204-00af7724b723cf54.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\204-00af7724b723cf54.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/234-2c5851395d230438.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\234-2c5851395d230438.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/2418e20e-b56b236458b5954b.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\2418e20e-b56b236458b5954b.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/314-de24019ea85094c1.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\314-de24019ea85094c1.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/332-171901573b3e0429.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\332-171901573b3e0429.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/36-8c2a5575389df272.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\36-8c2a5575389df272.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/41-671219030d2c4a73.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\41-671219030d2c4a73.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/549-99eaeabd6700fba2.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\549-99eaeabd6700fba2.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/611-5b2a07436cc80422.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\611-5b2a07436cc80422.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/6127d70c-6fa3cd15f9be8a5d.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\6127d70c-6fa3cd15f9be8a5d.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/984-2f9ca3234ac02f04.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\984-2f9ca3234ac02f04.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/auth/layout-a5ff3b81ab3c6414.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\auth\layout-a5ff3b81ab3c6414.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/auth/signin/page-6ecb9952c13dc3db.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\auth\signin\page-6ecb9952c13dc3db.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/layout-98b8b005e0518ea8.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\layout-98b8b005e0518ea8.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/page-0b4276f8bd63c257.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\page-0b4276f8bd63c257.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/services/maps/page-5bf9e58a0b5725b1.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\services\maps\page-5bf9e58a0b5725b1.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/services/package/page-afbc2aa2f16e16ed.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\services\package\page-afbc2aa2f16e16ed.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/services/plugins/page-07a537388ef603f0.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\services\plugins\page-07a537388ef603f0.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/app/terms/page-0381e079cf9528e5.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\app\terms\page-0381e079cf9528e5.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/main-app-c28f40e18c1e2321.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\main-app-c28f40e18c1e2321.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/chunks/webpack-2bce987317a5464e.js
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\chunks\webpack-2bce987317a5464e.js
+Content Type: application/javascript
+
+Uri: https://magnesify.com/_next/static/css/24cebed7f887aeb2.css
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\css\24cebed7f887aeb2.css
+Content Type: text/css
+
+Uri: https://magnesify.com/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://magnesify.com/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://magnesify.com/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://magnesify.com/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://magnesify.com/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://magnesify.com/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://magnesify.com/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\magnesify.com\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
